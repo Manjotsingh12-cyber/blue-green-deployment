@@ -1,2 +1,4 @@
-def hello():
-    return "Hello jsdfifiljdfil feature branch"
+def process_payment():
+    print("Payment processed successfully")
+
+process_payment()
